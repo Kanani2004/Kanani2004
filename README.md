@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Kanani 👋
 
-<!--
-**Kanani2004/Kanani2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** passionate about turning data into meaningful business insights.  
+Currently building hands-on projects using **Power BI, SQL, and Excel**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 What I'm Working On
+- Interactive **Power BI dashboards**
+- Data cleaning & analysis using **Excel**
+- Learning **SQL** for data querying
+- Building real-world analytics projects for my portfolio
+
+---
+
+## 🚀 Featured Project
+### 📌 Sales Performance Dashboard (Power BI)
+🔹 An interactive dashboard analyzing sales across Indian states  
+🔹 KPIs: Total Sales, Profit, Profit Margin  
+🔹 Insights by product, category, time, and geography  
+
+👉 **Project Repository:**  
+https://github.com/Kanani2004/sales-performance-dashboard-powerbi
+
+---
+
+## 🛠 Tools & Technologies
+- Power BI  
+- SQL (Learning)  
+- Microsoft Excel  
+- Data Visualization  
+- Business Analytics  
+
+---
+
+## 🎯 Career Goal
+Seeking **Data Analyst Internships** where I can:
+- Apply analytics skills to real business problems
+- Learn from real-world datasets
+- Grow into a professional data analyst
+
+---
+
+## 📫 Let's Connect
+- GitHub: https://github.com/Kanani2004  
+- LinkedIn: *(add when ready)*
+
+---
+
+⭐ *Thanks for visiting my profile! I'm learning in public and improving every day.*
+
