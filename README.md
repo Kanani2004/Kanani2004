@@ -43,7 +43,7 @@ Seeking **Data Analyst Internships** where I can:
 
 ## 📫 Let's Connect
 - GitHub: https://github.com/Kanani2004  
-- LinkedIn: *(add when ready)*
+- LinkedIn: https://www.linkedin.com/in/kanani-maheer/
 
 ---
 
