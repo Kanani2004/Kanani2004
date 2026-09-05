@@ -1,4 +1,4 @@
-# Hi, I'm Kanani 👋
+# Hi, I'm Maheer 👋
 
 🎯 **Aspiring Data Analyst** passionate about turning data into meaningful business insights.  
 Currently building hands-on projects using **Power BI, SQL, and Excel**.
